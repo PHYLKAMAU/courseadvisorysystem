@@ -63,7 +63,7 @@
           <div class="form-group">
             <input type="password" class="form-control" name="password" placeholder="Password">
           </div>
-          <p>Are you new user? <a href="index.php">Sign Up</a></p>
+          <p>Are you new user? <a href="signup.php">Sign Up</a></p>
           <input type="submit" class="btn btn-warning btn btn-block" name="submit" value="Login">
         </form>
       </div>

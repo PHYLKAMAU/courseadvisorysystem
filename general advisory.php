@@ -107,7 +107,7 @@
           <p>up coming events</p>
           <ul id="upComing">
             <li><a href="#"> <?php
-         $getpost = mysqli_query($con, "SELECT * FROM group_meeting");
+         $getpost = mysqli_query($con, "SELECT * FROM `group meeting`");
          while($row1=mysqli_fetch_array($getpost)){
            ?>
 
